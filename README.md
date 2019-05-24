@@ -1,5 +1,5 @@
 # P8_software
-This repository includes software that has been developed and used at the 8th semester project of Mathematical Engineering at Aalborg University. The software is written in Python, and the overall goal has been to estimate the sparse channel matrix <strong>G</strong> in the equation <strong>Y</strong> = <strong>S</strong> &middot; <strong>G</strong> + <strong>W</strong> by using both classical sparse channel estimation and with machine learning.
+This repository includes software that has been developed and used at the 8th semester project of Mathematical Engineering at Aalborg University. The software is written in Python, and the overall goal has been to estimate the sparse channel matrix <strong>G</strong> in the equation <strong>Y</strong> = <strong>S</strong> &middot; <strong>G</strong> + <strong>W</strong> by using both a classical sparse channel estimation algorithm and machine learning.
 
 Scripts included in the repository are:
 <ul>
